@@ -1,10 +1,9 @@
-Package: com.opa334.choicy
-Name: Choicy
+Package: com.opa334.whoami.choicymore
+Name: Choicy More
 Depends: mobilesubstrate, applist
-Version: 1.1.2
+Version: 1.2.0
 Architecture: iphoneos-arm
-Description: Advanced Tweak Configuration!
-Depiction: https://opa334.github.io/depic/Choicy/index.html
-Maintainer: opa334 <opa334@protonmail.com>
-Author: opa334 <opa334@protonmail.com>
+Description: 增加读取NanoLaunchDaemons守护进程功能，另外修改为不论 守护进程是否禁用 都会读取显示。因为有的守护进程即使是禁用状态也会启动。Advanced Tweak Configuration!
+Maintainer: opa334 <opa334@protonmail.com>, whoami
+Author: opa334 <opa334@protonmail.com>, whoami
 Section: Tweaks
